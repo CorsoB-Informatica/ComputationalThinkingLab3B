@@ -8,7 +8,7 @@ package it.giordanistriano.introduzioneJSE_1_8;
  * @version 1.0
  */
 public class Punto {
-	public int x;    // ascissa del punto
-	public int y;    // ordinata del punto
+	public int x;    // coordinate of point
+	public int y;    // coordinate of point
 }
  
